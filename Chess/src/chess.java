@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class s22223_p01 {
+public class chess {
     public static void main(String[] args) {
 
 

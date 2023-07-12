@@ -1,3 +1,3 @@
 # ChessJava
-
-The application created only with using arrays and loops.
+Console app. 
+The application is created only by using arrays and loops.
